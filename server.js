@@ -9,7 +9,7 @@ app.get("/scrape", function(req, res) {
   request(url, function(error, response, html) {
     if (!error) {
       const $ = cheerio.load(html);
-      const json = { title: "", teams: [] };
+      const json = { clubs: [] };
       let title, teams;
       $(".eas-b2 > div:nth-child(5)").filter(function() {
         const data = $(this);
@@ -20,7 +20,7 @@ app.get("/scrape", function(req, res) {
         });
         teams.sort();
         teams.forEach(function(elem, i) {
-          json.teams.push({ 'name': elem });
+          json.clubs.push({ 'code': i, 'name': elem });
         });
         res.send(json);
       });
