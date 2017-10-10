@@ -1,208 +1,204 @@
 {
     "clubs": [
         {
-            "code": 0,
+            "code": 1,
             "name": "1. FC Magdeburg"
         },
         {
-            "code": 1,
+            "code": 2,
             "name": "AC Ajaccio"
         },
         {
-            "code": 2,
+            "code": 3,
             "name": "AC Horsens"
         },
         {
-            "code": 3,
+            "code": 4,
             "name": "AD Alcorcón"
         },
         {
-            "code": 4,
+            "code": 5,
             "name": "ADO Den Haag"
         },
         {
-            "code": 5,
+            "code": 6,
             "name": "AEK Athens"
         },
         {
-            "code": 6,
+            "code": 7,
             "name": "AFC Eskilstuna"
         },
         {
-            "code": 7,
+            "code": 8,
             "name": "AFC Wimbledon"
         },
         {
-            "code": 8,
+            "code": 9,
             "name": "AIK"
         },
         {
-            "code": 9,
+            "code": 10,
             "name": "AJ Auxerre"
         },
         {
-            "code": 10,
+            "code": 11,
             "name": "AS Monaco"
         },
         {
-            "code": 11,
+            "code": 12,
             "name": "ASNL"
         },
         {
-            "code": 12,
+            "code": 13,
             "name": "ASSE"
         },
         {
-            "code": 13,
+            "code": 14,
             "name": "AZ"
         },
         {
-            "code": 14,
+            "code": 15,
             "name": "Aalborg BK"
         },
         {
-            "code": 15,
+            "code": 16,
             "name": "Aalesunds FK"
         },
         {
-            "code": 16,
+            "code": 17,
             "name": "Aarhus GF"
         },
         {
-            "code": 17,
+            "code": 18,
             "name": "Aberdeen"
         },
         {
-            "code": 18,
+            "code": 19,
             "name": "Accrington"
         },
         {
-            "code": 19,
+            "code": 20,
             "name": "Adelaide United"
         },
         {
-            "code": 20,
+            "code": 21,
             "name": "Admira Wacker"
         },
         {
-            "code": 21,
+            "code": 22,
             "name": "Ajax"
         },
         {
-            "code": 22,
+            "code": 23,
             "name": "Akhisarspor"
         },
         {
-            "code": 23,
+            "code": 24,
             "name": "Akhmat Grozny"
         },
         {
-            "code": 24,
+            "code": 25,
             "name": "Al Ahli"
         },
         {
-            "code": 25,
+            "code": 26,
             "name": "Al Batin"
         },
         {
-            "code": 26,
+            "code": 27,
             "name": "Al Faisaly"
         },
         {
-            "code": 27,
+            "code": 28,
             "name": "Al Fateh"
         },
         {
-            "code": 28,
+            "code": 29,
             "name": "Al Fayha"
         },
         {
-            "code": 29,
+            "code": 30,
             "name": "Al Hilal"
         },
         {
-            "code": 30,
+            "code": 31,
             "name": "Al Ittihad"
         },
         {
-            "code": 31,
+            "code": 32,
             "name": "Al Nassr"
         },
         {
-            "code": 32,
+            "code": 33,
             "name": "Al Qadisiyah"
         },
         {
-            "code": 33,
+            "code": 34,
             "name": "Al Raed"
         },
         {
-            "code": 34,
+            "code": 35,
             "name": "Al Shabab"
         },
         {
-            "code": 35,
+            "code": 36,
             "name": "Al Taawoun"
         },
         {
-            "code": 36,
+            "code": 37,
             "name": "Al. Petrolera"
         },
         {
-            "code": 37,
+            "code": 38,
             "name": "Alanyaspor"
         },
         {
-            "code": 38,
+            "code": 39,
             "name": "Albacete Bpie"
         },
         {
-            "code": 39,
+            "code": 40,
             "name": "Albirex Niigata"
         },
         {
-            "code": 40,
+            "code": 41,
             "name": "Amiens SC"
         },
         {
-            "code": 41,
+            "code": 42,
             "name": "Amkar Perm"
         },
         {
-            "code": 42,
+            "code": 43,
             "name": "América"
         },
         {
-            "code": 43,
+            "code": 44,
             "name": "América de Cali"
         },
         {
-            "code": 44,
+            "code": 45,
             "name": "Angers SCO"
         },
         {
-            "code": 45,
+            "code": 46,
             "name": "Antalyaspor"
         },
         {
-            "code": 46,
+            "code": 47,
             "name": "Anzhi Makhachkala"
         },
         {
-            "code": 47,
+            "code": 48,
             "name": "Argentina"
         },
         {
-            "code": 48,
+            "code": 49,
             "name": "Argentinos Jrs."
         },
         {
-            "code": 49,
-            "name": "Arka Gdynia"
-        },
-        {
             "code": 50,
-            "name": "Arsenal"
+            "name": "Arka Gdynia"
         },
         {
             "code": 51,
@@ -286,2574 +282,2510 @@
         },
         {
             "code": 71,
-            "name": "Australia"
-        },
-        {
-            "code": 72,
             "name": "Austria"
         },
         {
-            "code": 73,
+            "code": 72,
             "name": "Avaí"
         },
         {
-            "code": 74,
+            "code": 73,
             "name": "Avellino *"
         },
         {
-            "code": 75,
+            "code": 74,
             "name": "BK Häcken"
         },
         {
-            "code": 76,
+            "code": 75,
             "name": "BSC Young Boys"
         },
         {
-            "code": 77,
+            "code": 76,
             "name": "Banfield"
         },
         {
-            "code": 78,
+            "code": 77,
             "name": "Bari *"
         },
         {
-            "code": 79,
+            "code": 78,
             "name": "Barnet"
         },
         {
-            "code": 80,
+            "code": 79,
             "name": "Barnsley"
         },
         {
-            "code": 81,
+            "code": 80,
             "name": "Bayern"
         },
         {
-            "code": 82,
+            "code": 81,
             "name": "Başakşehir"
         },
         {
-            "code": 83,
+            "code": 82,
             "name": "Belenenses"
         },
         {
-            "code": 84,
+            "code": 83,
             "name": "Belgium"
         },
         {
-            "code": 85,
+            "code": 84,
             "name": "Belgrano"
         },
         {
-            "code": 86,
+            "code": 85,
             "name": "Benevento"
         },
         {
-            "code": 87,
+            "code": 86,
             "name": "Berlin"
         },
         {
-            "code": 88,
+            "code": 87,
             "name": "Beşiktaş"
         },
         {
-            "code": 89,
+            "code": 88,
             "name": "Bielefeld"
         },
         {
-            "code": 90,
+            "code": 89,
             "name": "Birmingham City"
         },
         {
-            "code": 91,
+            "code": 90,
             "name": "Blackburn Rovers"
         },
         {
-            "code": 92,
+            "code": 91,
             "name": "Blackpool"
         },
         {
-            "code": 93,
+            "code": 92,
             "name": "Boavista"
         },
         {
-            "code": 94,
+            "code": 93,
             "name": "Boca Juniors"
         },
         {
-            "code": 95,
+            "code": 94,
             "name": "Bochum"
         },
         {
-            "code": 96,
+            "code": 95,
             "name": "Bohemian FC"
         },
         {
-            "code": 97,
+            "code": 96,
             "name": "Bolivia *"
         },
         {
-            "code": 98,
+            "code": 97,
             "name": "Bologna"
         },
         {
-            "code": 99,
+            "code": 98,
             "name": "Bolton"
         },
         {
-            "code": 100,
+            "code": 99,
             "name": "Botafogo"
         },
         {
-            "code": 101,
+            "code": 100,
             "name": "Bourg en Bresse"
         },
         {
-            "code": 102,
+            "code": 101,
             "name": "Bournemouth"
         },
         {
-            "code": 103,
+            "code": 102,
             "name": "Bradford City"
         },
         {
-            "code": 104,
+            "code": 103,
             "name": "Braunschweig"
         },
         {
-            "code": 105,
+            "code": 104,
             "name": "Bray Wanderers"
         },
         {
+            "code": 105,
+            "name": "Brazil"
+        },
+        {
             "code": 106,
-            "name": "Brazil"
-        },
-        {
-            "code": 107,
-            "name": "Brazil"
-        },
-        {
-            "code": 108,
             "name": "Bremen"
         },
         {
-            "code": 109,
+            "code": 107,
             "name": "Brentford"
         },
         {
-            "code": 110,
+            "code": 108,
             "name": "Brescia *"
         },
         {
-            "code": 111,
+            "code": 109,
             "name": "Brighton"
         },
         {
-            "code": 112,
+            "code": 110,
             "name": "Brisbane Roar"
         },
         {
-            "code": 113,
+            "code": 111,
             "name": "Bristol City"
         },
         {
-            "code": 114,
+            "code": 112,
             "name": "Bristol Rovers"
         },
         {
-            "code": 115,
+            "code": 113,
             "name": "Brøndby IF"
         },
         {
-            "code": 116,
+            "code": 114,
             "name": "Bulgaria *"
         },
         {
-            "code": 117,
+            "code": 115,
             "name": "Burnley"
         },
         {
-            "code": 118,
+            "code": 116,
             "name": "Bursaspor"
         },
         {
-            "code": 119,
+            "code": 117,
             "name": "Burton Albion"
         },
         {
-            "code": 120,
+            "code": 118,
             "name": "Bury"
         },
         {
-            "code": 121,
+            "code": 119,
             "name": "CA Osasuna"
         },
         {
-            "code": 122,
+            "code": 120,
             "name": "CD Antofagasta"
         },
         {
-            "code": 123,
+            "code": 121,
             "name": "CD Huachipato"
         },
         {
-            "code": 124,
+            "code": 122,
             "name": "CD Leganés"
         },
         {
-            "code": 125,
+            "code": 123,
             "name": "CD Lugo"
         },
         {
-            "code": 126,
+            "code": 124,
             "name": "CD Numancia"
         },
         {
-            "code": 127,
+            "code": 125,
             "name": "CD O'Higgins"
         },
         {
-            "code": 128,
+            "code": 126,
             "name": "CD Palestino"
         },
         {
-            "code": 129,
+            "code": 127,
             "name": "CD Tenerife"
         },
         {
-            "code": 130,
+            "code": 128,
             "name": "CF Reus"
         },
         {
-            "code": 131,
+            "code": 129,
             "name": "CSKA Moscow"
         },
         {
-            "code": 132,
+            "code": 130,
             "name": "Cagliari"
         },
         {
-            "code": 133,
+            "code": 131,
             "name": "Cambridge Utd"
         },
         {
-            "code": 134,
+            "code": 132,
             "name": "Cameroon *"
         },
         {
-            "code": 135,
+            "code": 133,
             "name": "Canada"
         },
         {
-            "code": 136,
-            "name": "Canada"
-        },
-        {
-            "code": 137,
+            "code": 134,
             "name": "Cardiff City"
         },
         {
-            "code": 138,
+            "code": 135,
             "name": "Carl Zeiss Jena"
         },
         {
-            "code": 139,
+            "code": 136,
             "name": "Carlisle United"
         },
         {
-            "code": 140,
+            "code": 137,
             "name": "Carpi *"
         },
         {
-            "code": 141,
+            "code": 138,
             "name": "Celtic"
         },
         {
-            "code": 142,
+            "code": 139,
             "name": "Central Coast"
         },
         {
-            "code": 143,
+            "code": 140,
             "name": "Cerezo Osaka"
         },
         {
-            "code": 144,
+            "code": 141,
             "name": "Cesena *"
         },
         {
-            "code": 145,
+            "code": 142,
             "name": "Chamois FC"
         },
         {
-            "code": 146,
+            "code": 143,
             "name": "Chapecoense"
         },
         {
-            "code": 147,
+            "code": 144,
             "name": "Charlton Ath"
         },
         {
-            "code": 148,
+            "code": 145,
             "name": "Chaves*"
         },
         {
-            "code": 149,
+            "code": 146,
             "name": "Chelsea"
         },
         {
-            "code": 150,
+            "code": 147,
             "name": "Cheltenham Town"
         },
         {
-            "code": 151,
+            "code": 148,
             "name": "Chemnitzer FC"
         },
         {
-            "code": 152,
+            "code": 149,
             "name": "Chesterfield"
         },
         {
-            "code": 153,
+            "code": 150,
             "name": "Chiavari *"
         },
         {
-            "code": 154,
+            "code": 151,
             "name": "Chicago Fire"
         },
         {
-            "code": 155,
+            "code": 152,
             "name": "Chievo Verona"
         },
         {
-            "code": 156,
+            "code": 153,
             "name": "Chile *"
         },
         {
-            "code": 157,
+            "code": 154,
             "name": "China PR"
         },
         {
-            "code": 158,
-            "name": "China PR"
-        },
-        {
-            "code": 159,
+            "code": 155,
             "name": "Cittadella *"
         },
         {
-            "code": 160,
+            "code": 156,
             "name": "Clermont Foot"
         },
         {
-            "code": 161,
+            "code": 157,
             "name": "Club Brugge"
         },
         {
-            "code": 162,
+            "code": 158,
             "name": "Colchester"
         },
         {
-            "code": 163,
+            "code": 159,
             "name": "Colombia *"
         },
         {
-            "code": 164,
+            "code": 160,
             "name": "Colorado Rapids"
         },
         {
-            "code": 165,
+            "code": 161,
             "name": "Columbus Crew SC"
         },
         {
-            "code": 166,
+            "code": 162,
             "name": "Colón"
         },
         {
-            "code": 167,
+            "code": 163,
             "name": "Coritiba"
         },
         {
-            "code": 168,
+            "code": 164,
             "name": "Cork City"
         },
         {
-            "code": 169,
+            "code": 165,
             "name": "Cortuluá"
         },
         {
-            "code": 170,
+            "code": 166,
             "name": "Coventry City"
         },
         {
-            "code": 171,
+            "code": 167,
             "name": "Cracovia"
         },
         {
-            "code": 172,
+            "code": 168,
             "name": "Crawley Town"
         },
         {
-            "code": 173,
+            "code": 169,
             "name": "Cremona *"
         },
         {
-            "code": 174,
+            "code": 170,
             "name": "Crewe Alexandra"
         },
         {
-            "code": 175,
+            "code": 171,
             "name": "Crotone"
         },
         {
-            "code": 176,
+            "code": 172,
             "name": "Cruz Azul"
         },
         {
-            "code": 177,
+            "code": 173,
             "name": "Cruzeiro"
         },
         {
-            "code": 178,
+            "code": 174,
             "name": "Crystal Palace"
         },
         {
-            "code": 179,
+            "code": 175,
             "name": "Cultural Leonesa"
         },
         {
-            "code": 180,
+            "code": 176,
             "name": "Curicó Unido"
         },
         {
-            "code": 181,
+            "code": 177,
             "name": "Czech Republic"
         },
         {
-            "code": 182,
+            "code": 178,
             "name": "Cádiz CF"
         },
         {
-            "code": 183,
+            "code": 179,
             "name": "Córdoba CF"
         },
         {
-            "code": 184,
+            "code": 180,
             "name": "Côte d'Ivoire *"
         },
         {
-            "code": 185,
+            "code": 181,
             "name": "D. Alavés"
         },
         {
-            "code": 186,
+            "code": 182,
             "name": "D.C. United"
         },
         {
-            "code": 187,
+            "code": 183,
             "name": "Daegu FC"
         },
         {
-            "code": 188,
+            "code": 184,
             "name": "Darmstadt"
         },
         {
-            "code": 189,
+            "code": 185,
             "name": "Defensa"
         },
         {
-            "code": 190,
+            "code": 186,
             "name": "Denmark"
         },
         {
-            "code": 191,
+            "code": 187,
             "name": "Depor. Iquique"
         },
         {
-            "code": 192,
+            "code": 188,
             "name": "Deportes Temuco"
         },
         {
-            "code": 193,
+            "code": 189,
             "name": "Deportes Tolima"
         },
         {
-            "code": 194,
+            "code": 190,
             "name": "Deportivo Cali"
         },
         {
-            "code": 195,
+            "code": 191,
             "name": "Deportivo Pasto"
         },
         {
-            "code": 196,
+            "code": 192,
             "name": "Derby County"
         },
         {
-            "code": 197,
+            "code": 193,
             "name": "Derry City"
         },
         {
-            "code": 198,
+            "code": 194,
             "name": "Dijon FCO"
         },
         {
-            "code": 199,
+            "code": 195,
             "name": "Dinamo Moscow"
         },
         {
-            "code": 200,
+            "code": 196,
             "name": "Djurgårdens IF"
         },
         {
-            "code": 201,
+            "code": 197,
             "name": "Doncaster"
         },
         {
-            "code": 202,
+            "code": 198,
             "name": "Dortmund"
         },
         {
-            "code": 203,
+            "code": 199,
             "name": "Dresden"
         },
         {
-            "code": 204,
+            "code": 200,
             "name": "Drogheda United"
         },
         {
-            "code": 205,
+            "code": 201,
             "name": "Duisburg"
         },
         {
-            "code": 206,
+            "code": 202,
             "name": "Dundalk"
         },
         {
-            "code": 207,
+            "code": 203,
             "name": "Dundee FC"
         },
         {
-            "code": 208,
+            "code": 204,
             "name": "Düsseldorf"
         },
         {
-            "code": 209,
+            "code": 205,
             "name": "EA Guingamp"
         },
         {
-            "code": 210,
+            "code": 206,
             "name": "ESTAC Troyes"
         },
         {
-            "code": 211,
+            "code": 207,
             "name": "Ecuador *"
         },
         {
-            "code": 212,
+            "code": 208,
             "name": "Egypt *"
         },
         {
-            "code": 213,
+            "code": 209,
             "name": "Empoli"
         },
         {
-            "code": 214,
+            "code": 210,
             "name": "England"
         },
         {
-            "code": 215,
-            "name": "England"
-        },
-        {
-            "code": 216,
+            "code": 211,
             "name": "Envigado"
         },
         {
-            "code": 217,
+            "code": 212,
             "name": "Estoril Praia"
         },
         {
-            "code": 218,
+            "code": 213,
             "name": "Estudiantes"
         },
         {
-            "code": 219,
+            "code": 214,
             "name": "Ettifaq FC"
         },
         {
-            "code": 220,
+            "code": 215,
             "name": "Everton"
         },
         {
-            "code": 221,
+            "code": 216,
             "name": "Everton de Viña"
         },
         {
-            "code": 222,
+            "code": 217,
             "name": "Excel Mouscron"
         },
         {
-            "code": 223,
+            "code": 218,
             "name": "Excelsior"
         },
         {
-            "code": 224,
+            "code": 219,
             "name": "Exeter City"
         },
         {
-            "code": 225,
+            "code": 220,
             "name": "F. Santa Maria*"
         },
         {
-            "code": 226,
+            "code": 221,
             "name": "F.C. Tokyo"
         },
         {
-            "code": 227,
+            "code": 222,
             "name": "FC Barcelona"
         },
         {
-            "code": 228,
+            "code": 223,
             "name": "FC Barcelona “B”"
         },
         {
-            "code": 229,
+            "code": 224,
             "name": "FC Basel"
         },
         {
-            "code": 230,
+            "code": 225,
             "name": "FC Dallas"
         },
         {
-            "code": 231,
+            "code": 226,
             "name": "FC Groningen"
         },
         {
-            "code": 232,
+            "code": 227,
             "name": "FC Helsingør"
         },
         {
-            "code": 233,
+            "code": 228,
             "name": "FC Krasnodar"
         },
         {
-            "code": 234,
+            "code": 229,
             "name": "FC København"
         },
         {
-            "code": 235,
+            "code": 230,
             "name": "FC Lausanne-Sport"
         },
         {
-            "code": 236,
+            "code": 231,
             "name": "FC Lorient"
         },
         {
-            "code": 237,
+            "code": 232,
             "name": "FC Lugano"
         },
         {
-            "code": 238,
+            "code": 233,
             "name": "FC Luzern"
         },
         {
-            "code": 239,
+            "code": 234,
             "name": "FC Metz"
         },
         {
-            "code": 240,
+            "code": 235,
             "name": "FC Midtjylland"
         },
         {
-            "code": 241,
+            "code": 236,
             "name": "FC Nantes"
         },
         {
-            "code": 242,
+            "code": 237,
             "name": "FC Nordsjælland"
         },
         {
-            "code": 243,
+            "code": 238,
             "name": "FC Porto"
         },
         {
-            "code": 244,
+            "code": 239,
             "name": "FC Rostov"
         },
         {
-            "code": 245,
+            "code": 240,
             "name": "FC Seoul"
         },
         {
-            "code": 246,
+            "code": 241,
             "name": "FC Sion"
         },
         {
-            "code": 247,
+            "code": 242,
             "name": "FC St. Gallen"
         },
         {
-            "code": 248,
+            "code": 243,
             "name": "FC Thun"
         },
         {
-            "code": 249,
+            "code": 244,
             "name": "FC Tosno"
         },
         {
-            "code": 250,
+            "code": 245,
             "name": "FC Twente"
         },
         {
-            "code": 251,
+            "code": 246,
             "name": "FC Ufa"
         },
         {
-            "code": 252,
+            "code": 247,
             "name": "FC Ural"
         },
         {
-            "code": 253,
+            "code": 248,
             "name": "FC Utrecht"
         },
         {
-            "code": 254,
+            "code": 249,
             "name": "FC Zürich"
         },
         {
-            "code": 255,
+            "code": 250,
             "name": "FCSM"
         },
         {
-            "code": 256,
+            "code": 251,
             "name": "FK Austria Wien"
         },
         {
-            "code": 257,
+            "code": 252,
             "name": "FK Haugesund"
         },
         {
-            "code": 258,
+            "code": 253,
             "name": "FSV Zwickau"
         },
         {
-            "code": 259,
+            "code": 254,
             "name": "Fenerbahçe"
         },
         {
-            "code": 260,
+            "code": 255,
             "name": "Feyenoord"
         },
         {
-            "code": 261,
+            "code": 256,
             "name": "Finland *"
         },
         {
-            "code": 262,
+            "code": 257,
             "name": "Finn Harps"
         },
         {
-            "code": 263,
+            "code": 258,
             "name": "Fiorentina"
         },
         {
-            "code": 264,
+            "code": 259,
             "name": "Fleetwood Town"
         },
         {
-            "code": 265,
+            "code": 260,
             "name": "Fluminense"
         },
         {
-            "code": 266,
+            "code": 261,
             "name": "Foggia *"
         },
         {
-            "code": 267,
+            "code": 262,
             "name": "Forest Green"
         },
         {
-            "code": 268,
+            "code": 263,
             "name": "Fortuna Köln"
         },
         {
-            "code": 269,
+            "code": 264,
             "name": "France"
         },
         {
-            "code": 270,
-            "name": "France"
-        },
-        {
-            "code": 271,
+            "code": 265,
             "name": "Frankfurt"
         },
         {
-            "code": 272,
+            "code": 266,
             "name": "Freiburg"
         },
         {
-            "code": 273,
+            "code": 267,
             "name": "Frosinone *"
         },
         {
-            "code": 274,
+            "code": 268,
             "name": "Fulham"
         },
         {
-            "code": 275,
+            "code": 269,
             "name": "Fürth"
         },
         {
-            "code": 276,
+            "code": 270,
             "name": "GIF Sundsvall"
         },
         {
-            "code": 277,
+            "code": 271,
             "name": "Galatasaray"
         },
         {
-            "code": 278,
+            "code": 272,
             "name": "Galway United"
         },
         {
-            "code": 279,
+            "code": 273,
             "name": "Gamba Osaka"
         },
         {
-            "code": 280,
+            "code": 274,
             "name": "Gangwon FC"
         },
         {
-            "code": 281,
+            "code": 275,
             "name": "Gazélec Ajaccio"
         },
         {
-            "code": 282,
+            "code": 276,
             "name": "Genoa"
         },
         {
-            "code": 283,
+            "code": 277,
             "name": "Gençlerbirliği"
         },
         {
-            "code": 284,
+            "code": 278,
             "name": "Germany"
         },
         {
-            "code": 285,
-            "name": "Germany"
-        },
-        {
-            "code": 286,
+            "code": 279,
             "name": "Getafe CF"
         },
         {
-            "code": 287,
+            "code": 280,
             "name": "Gillingham"
         },
         {
-            "code": 288,
+            "code": 281,
             "name": "Gimnasia"
         },
         {
-            "code": 289,
+            "code": 282,
             "name": "Girona FC"
         },
         {
-            "code": 290,
+            "code": 283,
             "name": "Girondins de Bx"
         },
         {
-            "code": 291,
+            "code": 284,
             "name": "Godoy Cruz"
         },
         {
-            "code": 292,
+            "code": 285,
             "name": "Granada CF"
         },
         {
-            "code": 293,
+            "code": 286,
             "name": "Grasshopper Club"
         },
         {
-            "code": 294,
+            "code": 287,
             "name": "Greece"
         },
         {
-            "code": 295,
+            "code": 288,
             "name": "Grimsby Town"
         },
         {
-            "code": 296,
+            "code": 289,
             "name": "Grêmio"
         },
         {
-            "code": 297,
+            "code": 290,
             "name": "Guadalajara"
         },
         {
-            "code": 298,
+            "code": 291,
             "name": "GwangJu FC"
         },
         {
-            "code": 299,
+            "code": 292,
             "name": "Górnik Zabrze"
         },
         {
-            "code": 300,
+            "code": 293,
             "name": "Göztepe"
         },
         {
-            "code": 301,
+            "code": 294,
             "name": "H.Consa.Sapporo"
         },
         {
-            "code": 302,
+            "code": 295,
             "name": "HJK Helsinki"
         },
         {
-            "code": 303,
+            "code": 296,
             "name": "Hallescher FC"
         },
         {
-            "code": 304,
+            "code": 297,
             "name": "Halmstads BK"
         },
         {
-            "code": 305,
+            "code": 298,
             "name": "Hamburg"
         },
         {
-            "code": 306,
+            "code": 299,
             "name": "Hamilton"
         },
         {
-            "code": 307,
+            "code": 300,
             "name": "Hammarby IF"
         },
         {
-            "code": 308,
+            "code": 301,
             "name": "Hannover"
         },
         {
-            "code": 309,
+            "code": 302,
             "name": "Hansa Rostock"
         },
         {
-            "code": 310,
+            "code": 303,
             "name": "Havre AC"
         },
         {
-            "code": 311,
+            "code": 304,
             "name": "Hearts"
         },
         {
-            "code": 312,
+            "code": 305,
             "name": "Heidenheim"
         },
         {
-            "code": 313,
+            "code": 306,
             "name": "Hellas Verona"
         },
         {
-            "code": 314,
+            "code": 307,
             "name": "Heracles Almelo"
         },
         {
-            "code": 315,
+            "code": 308,
             "name": "Hibernian"
         },
         {
-            "code": 316,
+            "code": 309,
             "name": "Hobro IK"
         },
         {
-            "code": 317,
+            "code": 310,
             "name": "Hoffenheim"
         },
         {
-            "code": 318,
+            "code": 311,
             "name": "Houston Dynamo"
         },
         {
-            "code": 319,
+            "code": 312,
             "name": "Huddersfield"
         },
         {
-            "code": 320,
+            "code": 313,
             "name": "Hull City"
         },
         {
-            "code": 321,
+            "code": 314,
             "name": "Hungary *"
         },
         {
-            "code": 322,
+            "code": 315,
             "name": "Huracán"
         },
         {
-            "code": 323,
+            "code": 316,
             "name": "IF Elfsborg"
         },
         {
-            "code": 324,
+            "code": 317,
             "name": "IFK Göteborg"
         },
         {
-            "code": 325,
+            "code": 318,
             "name": "IFK Norrköping"
         },
         {
-            "code": 326,
+            "code": 319,
             "name": "IK Sirius"
         },
         {
-            "code": 327,
+            "code": 320,
             "name": "Iceland"
         },
         {
-            "code": 328,
+            "code": 321,
             "name": "Impact Montréal"
         },
         {
-            "code": 329,
+            "code": 322,
             "name": "Incheon United"
         },
         {
-            "code": 330,
+            "code": 323,
             "name": "Ind. Santa Fe"
         },
         {
-            "code": 331,
+            "code": 324,
             "name": "Indep. Medellín"
         },
         {
-            "code": 332,
+            "code": 325,
             "name": "Independiente"
         },
         {
-            "code": 333,
+            "code": 326,
             "name": "India *"
         },
         {
-            "code": 334,
+            "code": 327,
             "name": "Ingolstadt"
         },
         {
-            "code": 335,
+            "code": 328,
             "name": "Inter"
         },
         {
-            "code": 336,
+            "code": 329,
             "name": "Ipswich"
         },
         {
-            "code": 337,
+            "code": 330,
             "name": "Ireland"
         },
         {
-            "code": 338,
+            "code": 331,
             "name": "Italy"
         },
         {
-            "code": 339,
-            "name": "Italy"
-        },
-        {
-            "code": 340,
+            "code": 332,
             "name": "J-Södra"
         },
         {
-            "code": 341,
+            "code": 333,
             "name": "Jagiellonia"
         },
         {
-            "code": 342,
+            "code": 334,
             "name": "Jaguares"
         },
         {
-            "code": 343,
+            "code": 335,
             "name": "Jeju United"
         },
         {
-            "code": 344,
+            "code": 336,
             "name": "Jeonbuk Hyundai"
         },
         {
-            "code": 345,
+            "code": 337,
             "name": "Jeonnam Dragons"
         },
         {
-            "code": 346,
+            "code": 338,
             "name": "Junior"
         },
         {
-            "code": 347,
+            "code": 339,
             "name": "Juventus"
         },
         {
-            "code": 348,
+            "code": 340,
             "name": "Júbilo Iwata"
         },
         {
-            "code": 349,
+            "code": 341,
             "name": "KAA Gent"
         },
         {
-            "code": 350,
+            "code": 342,
             "name": "KAS Eupen"
         },
         {
-            "code": 351,
+            "code": 343,
             "name": "KRC Genk"
         },
         {
-            "code": 352,
+            "code": 344,
             "name": "KV Kortrijk"
         },
         {
-            "code": 353,
+            "code": 345,
             "name": "KV Mechelen"
         },
         {
-            "code": 354,
+            "code": 346,
             "name": "KV Oostende"
         },
         {
-            "code": 355,
+            "code": 347,
             "name": "Kaiserslautern"
         },
         {
-            "code": 356,
+            "code": 348,
             "name": "Kaizer Chiefs"
         },
         {
-            "code": 357,
+            "code": 349,
             "name": "Kalmar FF"
         },
         {
-            "code": 358,
+            "code": 350,
             "name": "Karabükspor"
         },
         {
-            "code": 359,
+            "code": 351,
             "name": "Karlsruher SC"
         },
         {
-            "code": 360,
+            "code": 352,
             "name": "Kashima Antlers"
         },
         {
-            "code": 361,
+            "code": 353,
             "name": "Kashiwa Reysol"
         },
         {
-            "code": 362,
+            "code": 354,
             "name": "Kasimpaşa"
         },
         {
-            "code": 363,
+            "code": 355,
             "name": "Kawasaki-F"
         },
         {
-            "code": 364,
+            "code": 356,
             "name": "Kayserispor"
         },
         {
-            "code": 365,
+            "code": 357,
             "name": "Kiel"
         },
         {
-            "code": 366,
+            "code": 358,
             "name": "Kilmarnock"
         },
         {
-            "code": 367,
+            "code": 359,
             "name": "Konyaspor"
         },
         {
-            "code": 368,
+            "code": 360,
             "name": "Korona Kielce"
         },
         {
-            "code": 369,
+            "code": 361,
             "name": "Kristiansund"
         },
         {
-            "code": 370,
+            "code": 362,
             "name": "Köln"
         },
         {
-            "code": 371,
+            "code": 363,
             "name": "LA Galaxy"
         },
         {
-            "code": 372,
+            "code": 364,
             "name": "LASK Linz"
         },
         {
-            "code": 373,
+            "code": 365,
             "name": "LOSC Lille"
         },
         {
-            "code": 374,
+            "code": 366,
             "name": "La Berrichonne"
         },
         {
-            "code": 375,
+            "code": 367,
             "name": "La Equidad"
         },
         {
-            "code": 376,
+            "code": 368,
             "name": "La Spezia *"
         },
         {
-            "code": 377,
+            "code": 369,
             "name": "Lanús"
         },
         {
-            "code": 378,
+            "code": 370,
             "name": "Lazio"
         },
         {
-            "code": 379,
+            "code": 371,
             "name": "Lech Poznań"
         },
         {
-            "code": 380,
+            "code": 372,
             "name": "Lechia Gdańsk"
         },
         {
-            "code": 381,
+            "code": 373,
             "name": "Leeds United"
         },
         {
-            "code": 382,
+            "code": 374,
             "name": "Legia Warszawa"
         },
         {
-            "code": 383,
+            "code": 375,
             "name": "Leicester City"
         },
         {
-            "code": 384,
+            "code": 376,
             "name": "Leipzig"
         },
         {
-            "code": 385,
+            "code": 377,
             "name": "Levante UD"
         },
         {
-            "code": 386,
+            "code": 378,
             "name": "Leverkusen"
         },
         {
-            "code": 387,
+            "code": 379,
             "name": "León"
         },
         {
-            "code": 388,
+            "code": 380,
             "name": "Lillestrøm SK"
         },
         {
-            "code": 389,
+            "code": 381,
             "name": "Limerick FC"
         },
         {
-            "code": 390,
+            "code": 382,
             "name": "Lincoln City"
         },
         {
-            "code": 391,
+            "code": 383,
             "name": "Liverpool"
         },
         {
-            "code": 392,
+            "code": 384,
             "name": "Lobos"
         },
         {
-            "code": 393,
+            "code": 385,
             "name": "Lokomotiv Moscow"
         },
         {
-            "code": 394,
+            "code": 386,
             "name": "Lorca FC"
         },
         {
-            "code": 395,
+            "code": 387,
             "name": "Luton Town"
         },
         {
-            "code": 396,
+            "code": 388,
             "name": "Lyngby BK"
         },
         {
-            "code": 397,
+            "code": 389,
             "name": "M'gladbach"
         },
         {
-            "code": 398,
+            "code": 390,
             "name": "MK Dons"
         },
         {
-            "code": 399,
+            "code": 391,
             "name": "MLS All Stars **"
         },
         {
-            "code": 400,
+            "code": 392,
             "name": "Mainz"
         },
         {
-            "code": 401,
+            "code": 393,
             "name": "Malmö FF"
         },
         {
-            "code": 402,
+            "code": 394,
             "name": "Manchester City"
         },
         {
-            "code": 403,
+            "code": 395,
             "name": "Manchester Utd"
         },
         {
-            "code": 404,
+            "code": 396,
             "name": "Mansfield Town"
         },
         {
-            "code": 405,
+            "code": 397,
             "name": "Marítimo"
         },
         {
-            "code": 406,
+            "code": 398,
             "name": "Melb. Victory"
         },
         {
-            "code": 407,
+            "code": 399,
             "name": "Melbourne City"
         },
         {
-            "code": 408,
+            "code": 400,
             "name": "Mexico"
         },
         {
-            "code": 409,
-            "name": "Mexico"
-        },
-        {
-            "code": 410,
+            "code": 401,
             "name": "Middlesbrough"
         },
         {
-            "code": 411,
+            "code": 402,
             "name": "Milan"
         },
         {
-            "code": 412,
+            "code": 403,
             "name": "Millonarios"
         },
         {
-            "code": 413,
+            "code": 404,
             "name": "Millwall"
         },
         {
-            "code": 414,
+            "code": 405,
             "name": "Minnesota United"
         },
         {
-            "code": 415,
+            "code": 406,
             "name": "Molde FK"
         },
         {
-            "code": 416,
+            "code": 407,
             "name": "Monarcas Morelia"
         },
         {
-            "code": 417,
+            "code": 408,
             "name": "Monterrey"
         },
         {
-            "code": 418,
+            "code": 409,
             "name": "Montpellier HSC"
         },
         {
-            "code": 419,
+            "code": 410,
             "name": "Morecambe"
         },
         {
-            "code": 420,
+            "code": 411,
             "name": "Moreirense"
         },
         {
-            "code": 421,
+            "code": 412,
             "name": "Motherwell"
         },
         {
-            "code": 422,
+            "code": 413,
             "name": "Málaga CF"
         },
         {
-            "code": 423,
+            "code": 414,
             "name": "NAC Breda"
         },
         {
-            "code": 424,
+            "code": 415,
             "name": "NY Red Bulls"
         },
         {
-            "code": 425,
+            "code": 416,
             "name": "Napoli"
         },
         {
-            "code": 426,
+            "code": 417,
             "name": "Necaxa"
         },
         {
-            "code": 427,
+            "code": 418,
             "name": "Netherlands"
         },
         {
-            "code": 428,
-            "name": "Netherlands"
-        },
-        {
-            "code": 429,
+            "code": 419,
             "name": "New England"
         },
         {
-            "code": 430,
+            "code": 420,
             "name": "New York City FC"
         },
         {
-            "code": 431,
+            "code": 421,
             "name": "New Zealand"
         },
         {
-            "code": 432,
-            "name": "New Zealand"
-        },
-        {
-            "code": 433,
+            "code": 422,
             "name": "Newcastle Jets"
         },
         {
-            "code": 434,
+            "code": 423,
             "name": "Newcastle Utd"
         },
         {
-            "code": 435,
+            "code": 424,
             "name": "Newell's"
         },
         {
-            "code": 436,
+            "code": 425,
             "name": "Newport County"
         },
         {
-            "code": 437,
+            "code": 426,
             "name": "Northampton"
         },
         {
-            "code": 438,
+            "code": 427,
             "name": "Northern Ireland"
         },
         {
-            "code": 439,
+            "code": 428,
             "name": "Norway"
         },
         {
-            "code": 440,
-            "name": "Norway"
-        },
-        {
-            "code": 441,
+            "code": 429,
             "name": "Norwich"
         },
         {
-            "code": 442,
+            "code": 430,
             "name": "Nott'm Forest"
         },
         {
-            "code": 443,
+            "code": 431,
             "name": "Notts County"
         },
         {
-            "code": 444,
+            "code": 432,
             "name": "Novara *"
         },
         {
-            "code": 445,
+            "code": 433,
             "name": "Nàstic"
         },
         {
-            "code": 446,
+            "code": 434,
             "name": "Nîmes Olympique"
         },
         {
-            "code": 447,
+            "code": 435,
             "name": "Nürnberg"
         },
         {
-            "code": 448,
+            "code": 436,
             "name": "OGC Nice"
         },
         {
-            "code": 449,
+            "code": 437,
             "name": "OL"
         },
         {
-            "code": 450,
+            "code": 438,
             "name": "OM"
         },
         {
-            "code": 451,
+            "code": 439,
             "name": "Odds BK"
         },
         {
-            "code": 452,
+            "code": 440,
             "name": "Odense BK"
         },
         {
-            "code": 453,
+            "code": 441,
             "name": "Ohod Club"
         },
         {
-            "code": 454,
+            "code": 442,
             "name": "Oldham Athletic"
         },
         {
-            "code": 455,
+            "code": 443,
             "name": "Olimpo"
         },
         {
-            "code": 456,
+            "code": 444,
             "name": "Olympiacos CFP"
         },
         {
-            "code": 457,
+            "code": 445,
             "name": "Omiya Ardija"
         },
         {
-            "code": 458,
+            "code": 446,
             "name": "Once Caldas"
         },
         {
-            "code": 459,
+            "code": 447,
             "name": "Orlando City"
         },
         {
-            "code": 460,
+            "code": 448,
             "name": "Orlando Pirates"
         },
         {
-            "code": 461,
+            "code": 449,
             "name": "Osmanlıspor"
         },
         {
-            "code": 462,
+            "code": 450,
             "name": "Oxford United"
         },
         {
-            "code": 463,
+            "code": 451,
             "name": "PAOK"
         },
         {
-            "code": 464,
+            "code": 452,
             "name": "PEC Zwolle"
         },
         {
-            "code": 465,
+            "code": 453,
             "name": "PSV"
         },
         {
-            "code": 466,
+            "code": 454,
             "name": "Pachuca"
         },
         {
-            "code": 467,
+            "code": 455,
             "name": "Palermo *"
         },
         {
-            "code": 468,
+            "code": 456,
             "name": "Palmeiras"
         },
         {
-            "code": 469,
+            "code": 457,
             "name": "Panathinaikos"
         },
         {
-            "code": 470,
+            "code": 458,
             "name": "Paraguay *"
         },
         {
-            "code": 471,
+            "code": 459,
             "name": "Paris"
         },
         {
-            "code": 472,
+            "code": 460,
             "name": "Paris FC"
         },
         {
-            "code": 473,
+            "code": 461,
             "name": "Parma *"
         },
         {
-            "code": 474,
+            "code": 462,
             "name": "Partick Thistle"
         },
         {
-            "code": 475,
+            "code": 463,
             "name": "Patriotas"
         },
         {
-            "code": 476,
+            "code": 464,
             "name": "Patronato"
         },
         {
-            "code": 477,
+            "code": 465,
             "name": "Paços Ferreira"
         },
         {
-            "code": 478,
+            "code": 466,
             "name": "Perth Glory"
         },
         {
-            "code": 479,
+            "code": 467,
             "name": "Peru *"
         },
         {
-            "code": 480,
+            "code": 468,
             "name": "Perugia *"
         },
         {
-            "code": 481,
+            "code": 469,
             "name": "Pescara"
         },
         {
-            "code": 482,
+            "code": 470,
             "name": "Peterborough"
         },
         {
-            "code": 483,
+            "code": 471,
             "name": "Philadelphia"
         },
         {
-            "code": 484,
+            "code": 472,
             "name": "Piast Gliwice"
         },
         {
-            "code": 485,
+            "code": 473,
             "name": "Plymouth Argyle"
         },
         {
-            "code": 486,
+            "code": 474,
             "name": "Pogoń Szczecin"
         },
         {
-            "code": 487,
+            "code": 475,
             "name": "Pohang Steelers"
         },
         {
-            "code": 488,
+            "code": 476,
             "name": "Poland"
         },
         {
-            "code": 489,
+            "code": 477,
             "name": "Ponte Preta"
         },
         {
-            "code": 490,
+            "code": 478,
             "name": "Port Vale"
         },
         {
-            "code": 491,
+            "code": 479,
             "name": "Portimão*"
         },
         {
-            "code": 492,
+            "code": 480,
             "name": "Portland Timbers"
         },
         {
-            "code": 493,
+            "code": 481,
             "name": "Portsmouth"
         },
         {
-            "code": 494,
+            "code": 482,
             "name": "Portugal"
         },
         {
-            "code": 495,
+            "code": 483,
             "name": "Preston"
         },
         {
-            "code": 496,
+            "code": 484,
             "name": "Preußen Münster"
         },
         {
-            "code": 497,
+            "code": 485,
             "name": "Puebla"
         },
         {
-            "code": 498,
+            "code": 486,
             "name": "QPR"
         },
         {
-            "code": 499,
+            "code": 487,
             "name": "Querétaro"
         },
         {
-            "code": 500,
+            "code": 488,
             "name": "Quevilly Rouen"
         },
         {
-            "code": 501,
+            "code": 489,
             "name": "R. Oviedo"
         },
         {
-            "code": 502,
+            "code": 490,
             "name": "R. Sporting"
         },
         {
-            "code": 503,
+            "code": 491,
             "name": "R. Valladolid CF"
         },
         {
-            "code": 504,
+            "code": 492,
             "name": "R. Zaragoza"
         },
         {
-            "code": 505,
+            "code": 493,
             "name": "RB Salzburg"
         },
         {
-            "code": 506,
+            "code": 494,
             "name": "RC Celta"
         },
         {
-            "code": 507,
+            "code": 495,
             "name": "RC Deportivo"
         },
         {
-            "code": 508,
+            "code": 496,
             "name": "RC Lens"
         },
         {
-            "code": 509,
+            "code": 497,
             "name": "RC Strasbourg"
         },
         {
-            "code": 510,
+            "code": 498,
             "name": "RCD Espanyol"
         },
         {
-            "code": 511,
+            "code": 499,
             "name": "RSC Anderlecht"
         },
         {
-            "code": 512,
+            "code": 500,
             "name": "Racing Club"
         },
         {
-            "code": 513,
+            "code": 501,
             "name": "Randers FC"
         },
         {
-            "code": 514,
+            "code": 502,
             "name": "Rangers"
         },
         {
-            "code": 515,
+            "code": 503,
             "name": "Rayo Vallecano"
         },
         {
-            "code": 516,
+            "code": 504,
             "name": "Reading"
         },
         {
-            "code": 517,
+            "code": 505,
             "name": "Real Betis"
         },
         {
-            "code": 518,
+            "code": 506,
             "name": "Real Madrid"
         },
         {
-            "code": 519,
+            "code": 507,
             "name": "Real Salt Lake"
         },
         {
-            "code": 520,
+            "code": 508,
             "name": "Real Sociedad"
         },
         {
-            "code": 521,
+            "code": 509,
             "name": "Regensburg"
         },
         {
-            "code": 522,
+            "code": 510,
             "name": "Rio Ave"
         },
         {
-            "code": 523,
+            "code": 511,
             "name": "Rionegro Águilas"
         },
         {
-            "code": 524,
+            "code": 512,
             "name": "River Plate"
         },
         {
-            "code": 525,
+            "code": 513,
             "name": "Rochdale"
         },
         {
-            "code": 526,
+            "code": 514,
             "name": "Roda JC"
         },
         {
-            "code": 527,
+            "code": 515,
             "name": "Roma"
         },
         {
-            "code": 528,
+            "code": 516,
             "name": "Romania"
         },
         {
-            "code": 529,
+            "code": 517,
             "name": "Rosario Central"
         },
         {
-            "code": 530,
+            "code": 518,
             "name": "Rosenborg BK"
         },
         {
-            "code": 531,
+            "code": 519,
             "name": "Ross County"
         },
         {
-            "code": 532,
+            "code": 520,
             "name": "Rot-Weiß Erfurt"
         },
         {
-            "code": 533,
+            "code": 521,
             "name": "Rotherham Utd"
         },
         {
-            "code": 534,
+            "code": 522,
             "name": "Royal Antwerp FC"
         },
         {
-            "code": 535,
+            "code": 523,
             "name": "Rubin Kazan"
         },
         {
-            "code": 536,
+            "code": 524,
             "name": "Russia"
         },
         {
-            "code": 537,
+            "code": 525,
             "name": "S-Hiroshima"
         },
         {
-            "code": 538,
+            "code": 526,
             "name": "S. Großaspach"
         },
         {
-            "code": 539,
+            "code": 527,
             "name": "SC Braga"
         },
         {
-            "code": 540,
+            "code": 528,
             "name": "SC Heerenveen"
         },
         {
-            "code": 541,
+            "code": 529,
             "name": "SC Paderborn"
         },
         {
-            "code": 542,
+            "code": 530,
             "name": "SCR Altach"
         },
         {
-            "code": 543,
+            "code": 531,
             "name": "SD Eibar"
         },
         {
-            "code": 544,
+            "code": 532,
             "name": "SD Huesca"
         },
         {
-            "code": 545,
+            "code": 533,
             "name": "SJ Earthquakes"
         },
         {
-            "code": 546,
+            "code": 534,
             "name": "SK Brann"
         },
         {
-            "code": 547,
+            "code": 535,
             "name": "SK Rapid Wien"
         },
         {
-            "code": 548,
+            "code": 536,
             "name": "SK Sturm Graz"
         },
         {
-            "code": 549,
+            "code": 537,
             "name": "SKA-Khabarovsk"
         },
         {
-            "code": 550,
+            "code": 538,
             "name": "SKN St. Pölten"
         },
         {
-            "code": 551,
+            "code": 539,
             "name": "SL Benfica"
         },
         {
-            "code": 552,
+            "code": 540,
             "name": "SM Caen"
         },
         {
-            "code": 553,
+            "code": 541,
             "name": "SPAL"
         },
         {
-            "code": 554,
+            "code": 542,
             "name": "SV Mattersburg"
         },
         {
-            "code": 555,
+            "code": 543,
             "name": "SV Meppen"
         },
         {
-            "code": 556,
+            "code": 544,
             "name": "SV Wehen"
         },
         {
-            "code": 557,
+            "code": 545,
             "name": "Sagan Tosu"
         },
         {
-            "code": 558,
+            "code": 546,
             "name": "Salerno *"
         },
         {
-            "code": 559,
+            "code": 547,
             "name": "Sampdoria"
         },
         {
-            "code": 560,
+            "code": 548,
             "name": "San Lorenzo"
         },
         {
-            "code": 561,
+            "code": 549,
             "name": "San Luis"
         },
         {
-            "code": 562,
+            "code": 550,
             "name": "San Martín"
         },
         {
-            "code": 563,
+            "code": 551,
             "name": "Sandecja"
         },
         {
-            "code": 564,
+            "code": 552,
             "name": "Sandefjord"
         },
         {
-            "code": 565,
+            "code": 553,
             "name": "Sandhausen"
         },
         {
-            "code": 566,
+            "code": 554,
             "name": "Sangju Sangmu"
         },
         {
-            "code": 567,
+            "code": 555,
             "name": "Santos"
         },
         {
-            "code": 568,
+            "code": 556,
             "name": "Santos Laguna"
         },
         {
-            "code": 569,
+            "code": 557,
             "name": "Sarpsborg 08 FF"
         },
         {
-            "code": 570,
+            "code": 558,
             "name": "Sassuolo"
         },
         {
-            "code": 571,
+            "code": 559,
             "name": "Saudi Arabia"
         },
         {
-            "code": 572,
+            "code": 560,
             "name": "Schalke"
         },
         {
-            "code": 573,
+            "code": 561,
             "name": "Scotland"
         },
         {
-            "code": 574,
+            "code": 562,
             "name": "Scunthorpe Utd"
         },
         {
-            "code": 575,
+            "code": 563,
             "name": "Seattle Sounders"
         },
         {
-            "code": 576,
+            "code": 564,
             "name": "Sevilla Atlético"
         },
         {
-            "code": 577,
+            "code": 565,
             "name": "Sevilla FC"
         },
         {
-            "code": 578,
+            "code": 566,
             "name": "Shakhtar Donetsk"
         },
         {
-            "code": 579,
+            "code": 567,
             "name": "Shamrock Rovers"
         },
         {
-            "code": 580,
+            "code": 568,
             "name": "Sheffield Utd"
         },
         {
-            "code": 581,
+            "code": 569,
             "name": "Sheffield Wed"
         },
         {
-            "code": 582,
+            "code": 570,
             "name": "Shimizu S-Pulse"
         },
         {
-            "code": 583,
+            "code": 571,
             "name": "Shrewsbury"
         },
         {
-            "code": 584,
+            "code": 572,
             "name": "Silkeborg IF"
         },
         {
-            "code": 585,
+            "code": 573,
             "name": "Sint-Truiden"
         },
         {
-            "code": 586,
+            "code": 574,
             "name": "Sivasspor"
         },
         {
-            "code": 587,
+            "code": 575,
             "name": "Sligo Rovers"
         },
         {
-            "code": 588,
+            "code": 576,
             "name": "Slovenia *"
         },
         {
-            "code": 589,
+            "code": 577,
             "name": "Sogndal Fotball"
         },
         {
-            "code": 590,
+            "code": 578,
             "name": "South Africa *"
         },
         {
-            "code": 591,
+            "code": 579,
             "name": "Southampton"
         },
         {
-            "code": 592,
+            "code": 580,
             "name": "Southend United"
         },
         {
-            "code": 593,
+            "code": 581,
             "name": "Sp. Charleroi"
         },
         {
-            "code": 594,
+            "code": 582,
             "name": "Spain"
         },
         {
-            "code": 595,
-            "name": "Spain"
-        },
-        {
-            "code": 596,
+            "code": 583,
             "name": "Sparta Praha"
         },
         {
-            "code": 597,
+            "code": 584,
             "name": "Sparta Rotterdam"
         },
         {
-            "code": 598,
+            "code": 585,
             "name": "Spartak Moscow"
         },
         {
-            "code": 599,
+            "code": 586,
             "name": "Sport"
         },
         {
-            "code": 600,
+            "code": 587,
             "name": "Sport. Lokeren"
         },
         {
-            "code": 601,
+            "code": 588,
             "name": "Sportfreunde Lotte"
         },
         {
-            "code": 602,
+            "code": 589,
             "name": "Sporting CP"
         },
         {
-            "code": 603,
+            "code": 590,
             "name": "Sporting KC"
         },
         {
-            "code": 604,
+            "code": 591,
             "name": "Spurs"
         },
         {
-            "code": 605,
+            "code": 592,
             "name": "St. Johnstone"
         },
         {
-            "code": 606,
+            "code": 593,
             "name": "St. Pats"
         },
         {
-            "code": 607,
+            "code": 594,
             "name": "St. Pauli"
         },
         {
-            "code": 608,
+            "code": 595,
             "name": "Stabæk Fotball"
         },
         {
-            "code": 609,
+            "code": 596,
             "name": "Stade Brestois"
         },
         {
-            "code": 610,
+            "code": 597,
             "name": "Stade Rennais"
         },
         {
-            "code": 611,
+            "code": 598,
             "name": "Stade de Reims"
         },
         {
-            "code": 612,
+            "code": 599,
             "name": "Standard Liège"
         },
         {
-            "code": 613,
+            "code": 600,
             "name": "Stevenage"
         },
         {
-            "code": 614,
+            "code": 601,
             "name": "Stoke City"
         },
         {
-            "code": 615,
+            "code": 602,
             "name": "Strømsgodset IF"
         },
         {
-            "code": 616,
+            "code": 603,
             "name": "Stuttgart"
         },
         {
-            "code": 617,
+            "code": 604,
             "name": "Sunderland"
         },
         {
-            "code": 618,
+            "code": 605,
             "name": "Suwon Samsung"
         },
         {
-            "code": 619,
+            "code": 606,
             "name": "Swansea City"
         },
         {
-            "code": 620,
+            "code": 607,
             "name": "Sweden"
         },
         {
-            "code": 621,
-            "name": "Sweden"
-        },
-        {
-            "code": 622,
+            "code": 608,
             "name": "Swindon Town"
         },
         {
-            "code": 623,
+            "code": 609,
             "name": "Switzerland *"
         },
         {
-            "code": 624,
+            "code": 610,
             "name": "Sydney FC"
         },
         {
-            "code": 625,
+            "code": 611,
             "name": "São Paulo"
         },
         {
-            "code": 626,
+            "code": 612,
             "name": "SønderjyskE"
         },
         {
-            "code": 627,
+            "code": 613,
             "name": "Talleres"
         },
         {
-            "code": 628,
+            "code": 614,
             "name": "Temperley"
         },
         {
-            "code": 629,
+            "code": 615,
             "name": "Termalica"
         },
         {
-            "code": 630,
+            "code": 616,
             "name": "Terni *"
         },
         {
-            "code": 631,
+            "code": 617,
             "name": "Tigre"
         },
         {
-            "code": 632,
+            "code": 618,
             "name": "Tigres"
         },
         {
-            "code": 633,
-            "name": "Tigres"
-        },
-        {
-            "code": 634,
+            "code": 619,
             "name": "Tijuana"
         },
         {
-            "code": 635,
+            "code": 620,
             "name": "Toluca"
         },
         {
-            "code": 636,
+            "code": 621,
             "name": "Tondela*"
         },
         {
-            "code": 637,
+            "code": 622,
             "name": "Torino"
         },
         {
-            "code": 638,
+            "code": 623,
             "name": "Toronto FC"
         },
         {
-            "code": 639,
+            "code": 624,
             "name": "Toulouse FC"
         },
         {
-            "code": 640,
+            "code": 625,
             "name": "Tours FC"
         },
         {
-            "code": 641,
+            "code": 626,
             "name": "Trabzonspor"
         },
         {
-            "code": 642,
+            "code": 627,
             "name": "Tromsø IL"
         },
         {
-            "code": 643,
+            "code": 628,
             "name": "Turkey"
         },
         {
-            "code": 644,
+            "code": 629,
             "name": "U.N.A.M."
         },
         {
-            "code": 645,
+            "code": 630,
             "name": "UD Almería"
         },
         {
-            "code": 646,
+            "code": 631,
             "name": "UD Las Palmas"
         },
         {
-            "code": 647,
+            "code": 632,
             "name": "US Orléans"
         },
         {
-            "code": 648,
+            "code": 633,
             "name": "Udinese"
         },
         {
-            "code": 649,
+            "code": 634,
             "name": "Ulsan Hyundai"
         },
         {
-            "code": 650,
+            "code": 635,
             "name": "Uni. Católica"
         },
         {
-            "code": 651,
+            "code": 636,
             "name": "Uni. Concepción"
         },
         {
-            "code": 652,
+            "code": 637,
             "name": "Uni. de Chile"
         },
         {
-            "code": 653,
+            "code": 638,
             "name": "Union Berlin"
         },
         {
-            "code": 654,
+            "code": 639,
             "name": "United States"
         },
         {
-            "code": 655,
-            "name": "United States"
-        },
-        {
-            "code": 656,
+            "code": 640,
             "name": "Unión"
         },
         {
-            "code": 657,
+            "code": 641,
             "name": "Unión Española"
         },
         {
-            "code": 658,
+            "code": 642,
             "name": "Unterhaching"
         },
         {
-            "code": 659,
+            "code": 643,
             "name": "Urawa Reds"
         },
         {
-            "code": 660,
+            "code": 644,
             "name": "Uruguay *"
         },
         {
-            "code": 661,
+            "code": 645,
             "name": "V. Guimarães"
         },
         {
-            "code": 662,
+            "code": 646,
             "name": "V. Setúbal"
         },
         {
-            "code": 663,
+            "code": 647,
             "name": "VVV-Venlo"
         },
         {
-            "code": 664,
+            "code": 648,
             "name": "Valencia CF"
         },
         {
-            "code": 665,
+            "code": 649,
             "name": "Valenciennes FC"
         },
         {
-            "code": 666,
+            "code": 650,
             "name": "Vegalta Sendai"
         },
         {
-            "code": 667,
+            "code": 651,
             "name": "Venezia *"
         },
         {
-            "code": 668,
+            "code": 652,
             "name": "Venezuela *"
         },
         {
-            "code": 669,
+            "code": 653,
             "name": "Ventforet Kofu"
         },
         {
-            "code": 670,
+            "code": 654,
             "name": "Veracruz"
         },
         {
-            "code": 671,
+            "code": 655,
             "name": "Vercelli *"
         },
         {
-            "code": 672,
+            "code": 656,
             "name": "VfL Osnabrück"
         },
         {
-            "code": 673,
+            "code": 657,
             "name": "VfR Aalen"
         },
         {
-            "code": 674,
+            "code": 658,
             "name": "Viking FK"
         },
         {
-            "code": 675,
+            "code": 659,
             "name": "Vila das Aves*"
         },
         {
-            "code": 676,
+            "code": 660,
             "name": "Villa Maipú*"
         },
         {
-            "code": 677,
+            "code": 661,
             "name": "Villarreal CF"
         },
         {
-            "code": 678,
+            "code": 662,
             "name": "Vissel Kobe"
         },
         {
-            "code": 679,
+            "code": 663,
             "name": "Vitesse"
         },
         {
-            "code": 680,
+            "code": 664,
             "name": "Vitória"
         },
         {
-            "code": 681,
+            "code": 665,
             "name": "Vålerenga Fotball"
         },
         {
-            "code": 682,
+            "code": 666,
             "name": "Vélez Sarsfield"
         },
         {
-            "code": 683,
+            "code": 667,
             "name": "WS Wanderers"
         },
         {
-            "code": 684,
+            "code": 668,
             "name": "Waasl. Beveren"
         },
         {
-            "code": 685,
+            "code": 669,
             "name": "Wales"
         },
         {
-            "code": 686,
+            "code": 670,
             "name": "Walsall"
         },
         {
-            "code": 687,
+            "code": 671,
             "name": "Wanderers"
         },
         {
-            "code": 688,
+            "code": 672,
             "name": "Watford"
         },
         {
-            "code": 689,
+            "code": 673,
             "name": "Well. Phoenix"
         },
         {
-            "code": 690,
+            "code": 674,
             "name": "Werder Bremen II"
         },
         {
-            "code": 691,
+            "code": 675,
             "name": "West Brom"
         },
         {
-            "code": 692,
+            "code": 676,
             "name": "West Ham"
         },
         {
-            "code": 693,
+            "code": 677,
             "name": "Whitecaps FC"
         },
         {
-            "code": 694,
+            "code": 678,
             "name": "Wigan Athletic"
         },
         {
-            "code": 695,
+            "code": 679,
             "name": "Willem II"
         },
         {
-            "code": 696,
+            "code": 680,
             "name": "Wisła Kraków"
         },
         {
-            "code": 697,
+            "code": 681,
             "name": "Wisła Płock"
         },
         {
-            "code": 698,
+            "code": 682,
             "name": "Wolfsberger AC"
         },
         {
-            "code": 699,
+            "code": 683,
             "name": "Wolfsburg"
         },
         {
-            "code": 700,
+            "code": 684,
             "name": "Wolves"
         },
         {
-            "code": 701,
+            "code": 685,
             "name": "World XI *"
         },
         {
-            "code": 702,
+            "code": 686,
             "name": "Wycombe"
         },
         {
-            "code": 703,
+            "code": 687,
             "name": "Würzburg"
         },
         {
-            "code": 704,
+            "code": 688,
             "name": "Yeni Malatyaspor"
         },
         {
-            "code": 705,
+            "code": 689,
             "name": "Yeovil Town"
         },
         {
-            "code": 706,
+            "code": 690,
             "name": "Yokohama F･M"
         },
         {
-            "code": 707,
+            "code": 691,
             "name": "Zagłębie Lubin"
         },
         {
-            "code": 708,
+            "code": 692,
             "name": "Zenit"
         },
         {
-            "code": 709,
+            "code": 693,
             "name": "Zulte-Waregem"
         },
         {
-            "code": 710,
+            "code": 694,
             "name": "adidas All-Star **"
         },
         {
-            "code": 711,
+            "code": 695,
             "name": "Örebro SK"
         },
         {
-            "code": 712,
+            "code": 696,
             "name": "Östersunds FK"
         },
         {
-            "code": 713,
+            "code": 697,
             "name": "Śląsk Wrocław"
         }
     ]

@@ -14,13 +14,14 @@ app.get("/scrape", function(req, res) {
       $(".eas-b2 > div:nth-child(5)").filter(function() {
         const data = $(this);
         //title = data.find('b').text();
-        const teams = [];
+        let teams = [];
         data.find("ul > li").each(function(i, elem) {
           teams[i] = $(this).text();
         });
         teams.sort();
+        teams = teams.filter((elem, index, self) => index == self.indexOf(elem));
         teams.forEach(function(elem, i) {
-          json.clubs.push({ 'code': i, 'name': elem });
+          json.clubs.push({ 'code': i + 1, 'name': elem });
         });
         res.send(json);
       });
